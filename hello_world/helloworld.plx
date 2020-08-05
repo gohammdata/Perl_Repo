@@ -1,2 +1,3 @@
 #!/usr/bin/perl
-print "Hello, world!\n";
+use v5.10;
+say "Hello World!";
